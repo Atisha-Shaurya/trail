@@ -157,3 +157,25 @@
     "nginx": []
   }
 }% 
+ }
+  },
+  "horusecCliWorkDir": {
+    "go": [],
+    "csharp": [],
+    "ruby": [],
+    "python": [],
+    "java": [],
+    "kotlin": [],
+    "javaScript": [],
+    "leaks": [],
+    "hcl": [],
+    "php": [],
+    "c": [],
+    "yaml": [],
+    "generic": [],
+    "elixir": [],
+    "shell": [],
+    "dart": [],
+    "nginx": []
+  }
+}% 
